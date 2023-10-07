@@ -1,2 +1,3 @@
 How to build a pasta with sauce
-cook pasta
+cook pasta for 10 minutes
+add sauce
